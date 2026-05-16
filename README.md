@@ -4,7 +4,7 @@
 **Gênero:** R&B Contemporâneo / Dark Pop
 **Integrante:** Sophia Armond Santos
 
-![Kotlin](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 ![Suno](https://img.shields.io/badge/Suno_AI-FF6B6B?style=flat&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -15,7 +15,7 @@
 Este projeto explora a intersecção entre criatividade humana e 
 Inteligência Artificial. Utilizando técnicas de RAG 
 (Retrieval-Augmented Generation) através do **Gemini Gems**, foi 
-criado um assistente especializado na análise lírica de **The Weeknd**, 
+criado um assistente especializado na análise lírica de **The Weeknd**,
 com influências de **Michael Jackson** e **Prince**. O objetivo final 
 foi a produção de um EP com **5 faixas inéditas**, cujas letras foram 
 geradas pela IA e a produção musical realizada via **Suno AI**.
@@ -34,18 +34,40 @@ geradas pela IA e a produção musical realizada via **Suno AI**.
 
 ## 🚀 Assistente Personalizado
 
-O Gem foi configurado com as seguintes diretrizes:
+O assistente (Gems) utilizado para modelagem das letras pode ser 
+acessado através do link abaixo:
 
-**Persona:** Compositor de elite especializado em R&B Moderno e Dark 
-Pop, com identidade criativa enraizada na discografia de The Weeknd e 
-nas influências de Michael Jackson, Prince e Lana Del Rey.
+🔗 [Link para o meu Gemini Gems](#)
 
-**Pilares Criativos:**
-- **Vibe e Atmosfera:** Estética de "After Hours" e "The Hills" — 
-fama, tentação e relacionamentos intensos
-- **Estilo Melódico:** Entrega emocional de "Purple Rain" e energia 
-rítmica de "Dirty Diana" e "Billie Jean"
-- **Vocabulário:** Metáforas sobre a noite, luzes da cidade e a 
-complexidade do desejo
+---
 
-**Prompt de Ativação utilizado:**
+## 🎧 Músicas Geradas
+
+| Faixa | Título | Estilo/Referência | Link do Áudio |
+|---|---|---|---|
+| 01 | Neon Heatwave | R&B / Synth-wave | [Neon Heatwave.mp3](assets/audio/neon-heatwave.mp3) |
+| 02 | Velvet Trap | Synth-Pop | [Velvet Trap.mp3](assets/audio/velvet-trap.mp3) |
+| 03 | Diamond Scars | R&B / Pop Híbrido | [Diamond Scars.mp3](assets/audio/diamond-scars.mp3) |
+| 04 | Glass Cathedral | Dark R&B / Synth-Pop | [Glass Cathedral.mp3](assets/audio/glass-cathedral.mp3) |
+| 05 | Vices in the Rain | R&B / Slow Jam | [Vices in the Rain.mp3](assets/audio/vices-in-the-rain.mp3) |
+
+---
+
+## 📄 Processo de Criação
+
+1. **Curadoria:** Seleção das principais músicas do The Weeknd e 
+análise das influências de Michael Jackson e Prince como base de 
+conhecimento do Gem.
+2. **Prompt Engineering:** Configuração das instruções do Gems para 
+mimetizar o vocabulário, a métrica e a estética noir do artista.
+3. **Produção:** Geração das letras e posterior conversão em áudio 
+no Suno AI, ajustando parâmetros de gênero musical e BPM.
+
+---
+
+## 🎵 Como Adicionar os Áudios ao Repositório
+
+**Passo a passo:**
+
+1. Crie uma pasta `assets/audio/` na raiz do repositório
+2. Renomeie seus arquivos de áudio exatamente assim:

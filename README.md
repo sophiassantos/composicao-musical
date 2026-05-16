@@ -62,12 +62,3 @@ conhecimento do Gem.
 mimetizar o vocabulário, a métrica e a estética noir do artista.
 3. **Produção:** Geração das letras e posterior conversão em áudio 
 no Suno AI, ajustando parâmetros de gênero musical e BPM.
-
----
-
-## 🎵 Como Adicionar os Áudios ao Repositório
-
-**Passo a passo:**
-
-1. Crie uma pasta `assets/audio/` na raiz do repositório
-2. Renomeie seus arquivos de áudio exatamente assim:

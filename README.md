@@ -45,12 +45,11 @@ acessado através do link abaixo:
 
 | Faixa | Título | Estilo/Referência | Link do Áudio |
 |---|---|---|---|
-| 01 | Neon Heatwave | R&B / Synth-wave | [Neon Heatwave.mp3](assets/audio/neon-heatwave.mp3) |
-| 02 | Velvet Trap | Synth-Pop | [Velvet Trap.mp3](assets/audio/velvet-trap.mp3) |
-| 03 | Diamond Scars | R&B / Pop Híbrido | [Diamond Scars.mp3](assets/audio/diamond-scars.mp3) |
-| 04 | Glass Cathedral | Dark R&B / Synth-Pop | [Glass Cathedral.mp3](assets/audio/glass-cathedral.mp3) |
-| 05 | Vices in the Rain | R&B / Slow Jam | [Vices in the Rain.mp3](assets/audio/vices-in-the-rain.mp3) |
-
+| 01 | Neon Heatwave | R&B / Synth-wave | [Neon Heatwave.mp3](assets/audio/Neon Pavement Heat.mp3) |
+| 02 | Velvet Trap | Synth-Pop | [Velvet Trap.mp3](assets/audio/Velvet Trap.mp3) |
+| 03 | Diamond Scars | R&B / Pop Híbrido | [Diamond Scars.mp3](assets/audio/Diamond Scars.mp3) |
+| 04 | Glass Cathedral | Dark R&B / Synth-Pop | [Glass Cathedral.mp3](assets/audio/Catedral de Vidro.mp3) |
+| 05 | Vices in the Rain | R&B / Slow Jam | [Vices in the Rain.mp3](assets/audio/Velvet Sky.mp3) |
 ---
 
 ## 📄 Processo de Criação
